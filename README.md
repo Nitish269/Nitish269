@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niteesh</h1>
-<h3 align="left">👨‍💻 I'm a Production Engineering Undergraduate at SGGSIE&T Nanded</h3>
+<!-- <h3 align="left">👨‍💻 I'm a Production Engineering Undergraduate at SGGSIE&T Nanded</h3> -->
 
-- 📫 How to reach me **niteeshGovindpure269@gmail.com**
+- 📫 How to reach me **nitish.269@gmail.com**
 <hr>
 <h3 align="left">🛠⚙My Languages and Tools:</h3>
 <hr>
@@ -11,6 +11,6 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish269&show_icons=true&locale=en" alt="nitish269" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish269&label=Profile%20views&color=0e75b6&style=flat" alt="nitish269" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish269" alt="nitish269" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish269&label=Profile%20views&color=0e75b6&style=flat" alt="nitish269" /> </p>
