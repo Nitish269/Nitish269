@@ -6,7 +6,9 @@
 <h3 align="left">Cerifications</h3>
 <p align="left" >
 Python Programming by Analytics Vidhya
-https://courses.analyticsvidhya.com/certificates/zzwtl8zyfh
+</p>
+<p align="left" >
+  https://courses.analyticsvidhya.com/certificates/zzwtl8zyfh
 </p>
 <hr>
 
