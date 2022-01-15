@@ -3,8 +3,11 @@
 
 - 📫 How to reach me **nitish.269@gmail.com**
 <hr>
-
-
+<h3 align="left">Cerifications</h3>
+<p align="left" >
+Python Programming by Analytics Vidhya
+</p>
+<hr>
 
 <h3 align="left">🛠⚙My Languages and Tools:</h3>
 
